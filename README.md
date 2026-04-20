@@ -13,8 +13,6 @@
 - 🛠️ Currently building projects with **Flutter**, **React**, and **Node.js**
 - 🎮 Exploring game development with **Unity**
 - 🌱 Always learning — currently diving deeper into **system design** & **databases**
-- 📫 Reach me at: **in/osunhak**
-
 ---
 
 ### 🧰 Tech Stack
