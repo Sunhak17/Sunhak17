@@ -5,10 +5,6 @@
   Building things across the stack — mobile, web, backend, and beyond.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blueviolet" alt="profile views" />
-</p>
-
 ---
 
 ### 🧭 About Me
