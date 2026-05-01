@@ -1,8 +1,6 @@
 <div align="center">
 
-# Oeng Sunhak
-
-**Software Engineering · Cambodia Academy of Digital Technology (CADT)**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Oeng%20Sunhak&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=16" />
 
 </div>
 
@@ -10,7 +8,7 @@
 
 ## About
 
-Computer Science student specializing in Software Engineering at CADT, Cambodia. I build across the full stack — from mobile applications and web interfaces to backend systems and embedded hardware. Currently deepening my knowledge in system design, databases, and game development.
+Computer Science student specializing in Software Engineering at CADT, Cambodia. I build across the full stack — from mobile applications and web interfaces to backend systems and embedded hardware. Currently deepening my knowledge in system design, databases, and scalable architecture.
 
 - 🔭 Working on full-stack and mobile projects using **Flutter** and **React**
 - 🌱 Studying **system design**, **distributed systems**, and **database internals**
@@ -37,7 +35,7 @@ Computer Science student specializing in Software Engineering at CADT, Cambodia.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-**Backend & Databases**
+**Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -57,12 +55,25 @@ Computer Science student specializing in Software Engineering at CADT, Cambodia.
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sunhak17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunhak17&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+
+<img src="https://github-stats-alpha.vercel.app/api?username=Sunhak17&cc=0d1117&tc=ffffff&ic=58a6ff&bc=0d1117" />
+
+</div>
+---
+
+## Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sunhak17&theme=tokyo-night&hide_border=true&area=true)
+
 </div>
 
 ---
 
 <div align="center">
-  <sub>📍 Phnom Penh, Cambodia &nbsp;·&nbsp; Open to collaborations & internships</sub>
+<sub>📍 Phnom Penh, Cambodia &nbsp;·&nbsp; Open to collaborations & internships</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+
 </div>
