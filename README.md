@@ -8,7 +8,7 @@
 
 ## About
 
-Computer Science student specializing in Software Engineering at CADT, Cambodia. I build across the full stack — from mobile applications and web interfaces to backend systems and embedded hardware. Currently deepening my knowledge in system design, databases, and scalable architecture.
+Computer Science student specializing in Software Engineering at CADT, Cambodia. I build across the full stack from mobile applications and web interfaces to backend systems and embedded hardware.
 
 - 🔭 Working on full-stack and mobile projects using **Flutter** and **React**
 - 🌱 Studying **system design**, **distributed systems**, and **database internals**
