@@ -61,16 +61,6 @@ Computer Science student specializing in Software Engineering at CADT, Cambodia.
 </div>
 ---
 
-## Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sunhak17&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
 <div align="center">
 <sub>📍 Phnom Penh, Cambodia &nbsp;·&nbsp; Open to collaborations & internships</sub>
 
